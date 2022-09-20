@@ -39,12 +39,12 @@ l=('Praveen',33.3,True,234)
 print(type(l))
 print(l)
 
-l.('Sarika')
+#l.('Sarika')
 print(l)
 
 print(l[0])
 
-del l[0]
+#del l[0]
 print(l)
 
 #Dictionary
